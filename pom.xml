@@ -18,7 +18,7 @@
         <java.version>1.8</java.version>
         <java-jwt>3.3.0</java-jwt>
         <jsonwebtoken.jjwt>0.9.0</jsonwebtoken.jjwt>
-        <alibaba.fastjson>1.2.47</alibaba.fastjson>
+        <alibaba.fastjson>1.2.83</alibaba.fastjson>
         <apache.commons-lang3>3.7</apache.commons-lang3>
         <slf4j.version>1.6.4</slf4j.version>
         <junit.version>4.12</junit.version>
